@@ -1,7 +1,7 @@
 {
     "chain_name": "TERP",
-    "api": ["https://api.terp.nodexcapital.com/"],
-    "rpc": ["https://rpc.terp.nodexcapital.com/"],
+    "api": ["https://api.terp.aknodes.net/"],
+    "rpc": ["https://rpc.terp.aknodes.net/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": "118",
