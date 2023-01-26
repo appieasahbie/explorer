@@ -11,7 +11,7 @@ export const $themeConfig = {
   app: {
     appName: 'AKNodesExplorer', // Will update logo in navigation menu (Branding)
     // eslint-disable-next-line global-require
-    applogoImage: '/aknodes.png', // Will update logo in navigation menu (Branding)
+    applogoImage: 'aknodes.png', // Will update logo in navigation menu (Branding)
   },
   layout: {
     isRTL: false,
