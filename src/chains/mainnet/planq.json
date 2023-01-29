@@ -2,12 +2,12 @@
     "chain_name": "planq",
     "api": [
             "https://rest.cosmos.directory/planq",
-            "https://api.planq.nodestake.top",
+            "https://api.planq.aknodes.net",
             "https://rest.planq.network"
           ],
     "rpc": [
             "https://rpc.cosmos.directory/planq",
-            "https://rpc.planq.nodestake.top",
+            "https://rpc.planq.aknodes.net",
             "https://rpc.planq.network"
           ],
     "snapshot_provider": "",
