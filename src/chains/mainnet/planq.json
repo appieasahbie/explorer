@@ -1,18 +1,32 @@
 {
     "chain_name": "planq",
-    "api": ["https://api.planq.aknodes.net/"],
-    "rpc": ["https://rpc.planq.aknodes.net/"],
+    "api": [
+            "https://rest.cosmos.directory/planq",
+            "https://api.planq.nodestake.top",
+            "https://rest.planq.network"
+          ],
+    "rpc": [
+            "https://rpc.cosmos.directory/planq",
+            "https://rpc.planq.nodestake.top",
+            "https://rpc.planq.network"
+          ],
     "snapshot_provider": "",
-    "sdk_version": "0.46.4",
-    "coin_type": "118",
-    "min_tx_fee": "1000000",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
     "addr_prefix": "plq",
-    "logo": "/logos/planq.svg",
+    "logo": "/logos/planq.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 20000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    },
     "assets": [{
         "base": "aplanq",
-        "symbol": "PLANQ",
+        "symbol": "planq",
         "exponent": "18",
-        "logo": "/logos/planq.svg"
-    }
-     ]
+        "coingecko_id": "",
+        "logo": "/logos/planq.png"
+    }]
 }
