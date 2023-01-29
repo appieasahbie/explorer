@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'https://explorer.aknodes.net/logox.svg',
+      icon: 'aknodes.svg',
     })
   }
   chainMenus.push({ header: 'LINKS' })
