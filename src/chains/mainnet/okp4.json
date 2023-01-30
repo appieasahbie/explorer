@@ -1,19 +1,15 @@
 {
-    "chain_name": "OKP4",
-    "api": ["https://api.okp4.aknodes.net/"],
-    "rpc": ["https://rpc.okp4.aknodes.net/"],
-    "snapshot_provider": "",
-    "sdk_version": "0.45.6",
-    "coin_type": "118",
-    "min_tx_fee": "800",
-    "addr_prefix": "okp4",
-    "logo": "/logos/okp4.svg",
-    "assets": [
-      {
-        "base": "uknow",
+    "chain_name": "okp4",
+    "api": ["https://api.okp4.aknodes.net"],
+    "rpc": ["http://rpc.okp4.aknodes.net"],
+    "coin_type": 118,
+    "min_tx_fee": 200,
+    "addr_prefix": "UKNOW",
+    "logo": "/logos/GK12zUWJ_400x400.jpg",
+    "assets": [{
+        "base": "UKNOW",
         "symbol": "KNOW",
-        "exponent": "6",
-        "logo": "/logos/okp4.svg"
-      }
-    ]
-  }
+        "exponent": 6,
+        "logo": "/logos/GK12zUWJ_400x400.jpg"
+    }]
+}
