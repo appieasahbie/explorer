@@ -2,19 +2,15 @@
     "chain_name": "ojo",
     "api": ["https://api.ojo.aknodes.net"],
     "rpc": ["https://rpc.ojo.aknodes.net"],
-    "snapshot_provider": "",
+    "coin_type": 118,
+    "min_tx_fee": 200,
     "sdk_version": "0.46.7",
-    "coin_type": "118",
-    "min_tx_fee": "5000",
     "addr_prefix": "ojo",
     "logo": "/logos/ojo.png",
-    "keplr_features": ["ibc-transfer", "ibc-go"],
-    "theme_color": "#fe6057",
     "assets": [{
         "base": "uojo",
         "symbol": "OJO",
-        "exponent": "6",
-        "coingecko_id": "",
+        "exponent": 6,
         "logo": "/logos/ojo.png"
     }]
 }
