@@ -1,7 +1,7 @@
 {
     "chain_name": "ojo",
-    "api": ["https://ojo-testnet-api.polkachu.com", "https://api-testnet-ojo.nodeist.net", "https://ojo-testnet.api.kjnodes.com", "https://api-t.ojo.nodestake.top"],
-    "rpc": ["https://ojo-testnet-rpc.polkachu.com", "https://rpc-testnet-ojo.nodeist.net", "https://ojo-testnet.rpc.kjnodes.com", "https://rpc-t.ojo.nodestake.top"],
+    "api": ["https://api.ojo.aknodes.net"],
+    "rpc": ["https://rpc.ojo.aknodes.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",
