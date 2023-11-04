@@ -1,7 +1,7 @@
 {
     "chain_name": "entangle",
-    "api": ["https://api.entangle.aknodes.net"],
-    "rpc": ["https://rpc.entangle.aknodes.net"],
+    "api":["https://api.entangle.aknodes.net"],
+    "rpc":["https://rpc.entangle.aknodes.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.12",
     "coin_type": "60",
