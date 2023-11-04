@@ -1,11 +1,7 @@
 {
     "chain_name": "mantra",
-    "api": [
-        {"provider": "Appieasahbie", "address": "https://api.mantrachain.aknodes.net"},
-    ],
-    "rpc": [
-        {"provider": "Appieasahbie", "address": "https://rpc.mantrachain.aknodes.net"},
-    ],
+    "api": ["https://api.mantrachain.aknodes.net"],
+    "rpc": ["https://rpc.mantrachain.aknodes.net"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
     "coin_type": "118",
