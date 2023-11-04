@@ -1,7 +1,7 @@
 {
     "chain_name": "andromeda",
-    "api": ["https://api-t.andromeda.nodestake.top", "https://andromeda-testnet.api.kjnodes.com","https://api.andromeda.aknodes.net"],
-    "rpc": ["https://rpc-t.andromeda.nodestake.top", "https://andromeda-testnet.rpc.kjnodes.com","https://rpc.andromeda.aknodes.net"],
+    "api": [""https://api.andromeda.aknodes.net"],
+    "rpc": [""https://rpc.andromeda.aknodes.net"],
     "snapshot_provider": "",
     "sdk_version": "0.45.12",
     "coin_type": "118",
