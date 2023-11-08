@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "mantra",
-    "logo": "/logos/mantra.jpg",
+    "logo": "/logos/mantra.png",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "theme_color": "#ae528b",
     "assets": [{
