@@ -5,7 +5,7 @@
     "coin_type": 118,
     "min_tx_fee": 200,
     "addr_prefix": "UKNOW",
-    "logo": "/logos/GK12zUWJ_400x400.jpg",
+    "logo": "/logos/okp4.svg",
     "assets": [{
         "base": "UKNOW",
         "symbol": "KNOW",
