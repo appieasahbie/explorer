@@ -1,7 +1,7 @@
 {
     "chain_name": "axelar",
-    "api": ["https://api-axelar-ia.cosmosia.notional.ventures", "https://lcd-axelar.imperator.co", "https://axelar-lcd.quickapi.com", "https://axelar-api.polkachu.com", "https://axelar-lcd.qubelabs.io", "https://axelar-rest.chainode.tech", "https://axelar-lcd.quantnode.tech", "https://api-1.axelar.nodes.guru:443"],
-    "rpc": ["https://rpc-axelar-ia.cosmosia.notional.ventures:443", "https://rpc-axelar.imperator.co:443", "https://axelar-rpc.quickapi.com:443", "https://axelar-rpc.pops.one:443", "https://axelar-rpc.chainode.tech:443", "https://axelar-rpc.polkachu.com:443"],
+    "api": ["https://api.axelar.aknodes.net"],
+    "rpc": ["https://rpc.axelar.aknodes.net"],
     "snapshot_provider": "",
     "sdk_version": "0.45.6",
     "coin_type": "118",
@@ -13,25 +13,25 @@
         "symbol": "AXL",
         "exponent": "6",
         "coingecko_id": "axelar",
-        "logo": "/logos/axelar.svg"
+        "logo": "/logos/axelar.jpg"
     }, {
         "base": "uusdc",
         "symbol": "axlUSDC",
         "exponent": "6",
         "coingecko_id": "usd-coin",
-        "logo": "/logos/usdc.svg"
+        "logo": "/logos/usdc.jpg"
     }, {
         "base": "uusdt",
         "symbol": "axlUSDT",
         "exponent": "6",
         "coingecko_id": "tether",
-        "logo": "/logos/usdt.svg"
+        "logo": "/logos/usdt.jpg"
     }, {
         "base": "dai-wei",
         "symbol": "axlDAI",
         "exponent": "18",
         "coingecko_id": "dai",
-        "logo": "/logos/dai.svg"
+        "logo": "/logos/dai.jpg"
     }, {
         "base": "weth-wei",
         "symbol": "axlWETH",
