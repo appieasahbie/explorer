@@ -1,12 +1,7 @@
 {
   "chain_name": "haqq",
-  "coingecko": "",
-    "api": [
-        {"provider": "Haqq Network", "address": "https://api.haqq.aknodes.net"}
-    ],
-    "rpc": [
-        {"provider": "Haqq Network", "address": "https://rpc.haqq.aknodes.net"}
-    ],
+    "api": ["https://api.haqq.aknodes.net"],
+    "rpc": ["https://rpc.haqq.aknodes.net"],
   "snapshot_provider": "",
   "sdk_version": "0.46.10",
   "coin_type": "60",
