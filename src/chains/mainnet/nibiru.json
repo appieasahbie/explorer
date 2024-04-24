@@ -1,7 +1,7 @@
 {
     "chain_name": "nibiru",
-    "api": ["https://api.nibiru.aknodes.net/"],
-    "rpc": ["https://rpc.nibiru.aknodes.net/"],
+    "api": ["https://api.nibiru-mainnet.aknodes.net/"],
+    "rpc": ["https://rpc.nibiru-mainnet.aknodes.net/"],
     "snapshot_provider": "",
     "sdk_version": "0.45.7",
     "coin_type": "118",
